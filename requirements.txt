@@ -12,7 +12,7 @@ mkl-fft==1.0.12
 mkl-random==1.0.2
 mkl-service==2.0.2
 numpy==1.22.0
-protobuf==3.8.0
+protobuf==3.18.3
 PyYAML==5.4
 scipy==1.10.0
 six==1.12.0
